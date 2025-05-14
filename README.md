@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi there, I'm a software engineering student!
 
-<!--
-**PanFours0422/PanFours0422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub！
 
-Here are some ideas to get you started:
+### 😐 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 一名正在努力卷出实验室的 *软件工程专业学生*
+* 🤖 主攻方向是 **人工智能**（AI 不止能写代码，还能写作业）
+* 💻 常用编程语言是 **Java** 和 **Python**
+* 💥 喜欢用代码解决问题，也时常被代码反过来教做人
+
+### 📦 关于这些仓库
+
+这里的代码，大多数是为了应付学业任务而上传的。你可以认为它们：
+
+* 是一座“珍贵”的 **学术屎山**（带注释版）
+* 是一份“不可多得”的 **编程黑历史**
+* 是我“自愿”（被迫）上传以交差的作品
+
+> ⚠️ 温馨提示：这些仓库将在我毕业后被悉数删除，彻底抹去这段技术黑暗史 🤫
+
+### 🚀 未来的计划
+
+* 用更高质量的项目刷新形象
+* 做一些真正感兴趣的开源项目
+* 不再上传“为了交作业”的代码，而是“为了热爱”的代码
+
+---
+
+🧠 虽然现在还在学习的路上，但每一行代码都在让我变得更强。欢迎关注、交流或者围观我慢慢填坑的过程！
+
+---
